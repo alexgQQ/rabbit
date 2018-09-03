@@ -17,4 +17,5 @@ Start container
 ## Start the management interface to see the message traffic
     
     http://localhost:15672 or http://127.0.0.1:15672/
+
     
