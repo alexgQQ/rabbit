@@ -18,4 +18,3 @@ Start container
     
     http://localhost:15672 or http://127.0.0.1:15672/
 
-    
