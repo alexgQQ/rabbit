@@ -1,0 +1,7 @@
+url: 'amqp://guest:guest@rabbitmq:5672/%2F?connection_attempts=10'
+queue:
+  id: 'main_queue.#'
+  routing_key: 'main'
+exchange:
+  id: 'main_exchange.#'
+  type: 'topic'
